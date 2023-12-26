@@ -9,4 +9,5 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | Language            | Time       |
 |---------------------|------------|
 | [C++](C++.cpp)      | 6 Apr 2022 |
-| [python](python.py) |            |
+| [python](python.py) | 2022       |
+| [C](C.c)            | 2022       |
