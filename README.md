@@ -4,6 +4,9 @@ Welcome to this cozy space where I document each time I learn a new programming 
 
 ## Records
 
-| Language       | Time       |
-| -------------- | ---------- |
-| [C++](C++.cpp) | 6 Apr 2022 | 
+Note: The timestamp may not always reflect precise data. Where no specific date is provided, it indicates that I don't have reliable information about the exact time of the event.
+
+| Language            | Time       |
+|---------------------|------------|
+| [C++](C++.cpp)      | 6 Apr 2022 |
+| [python](python.py) |            |
