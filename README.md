@@ -12,3 +12,4 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | [python](python.py)         | 2022        |
 | [C](C.c)                    | 2022        |
 | [JavaScript](JavaScript.js) | 29 Sep 2023 |
+| [Vue](Vue.vue)              | 23 Oct 2023 |
