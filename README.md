@@ -6,8 +6,9 @@ Welcome to this cozy space where I document each time I learn a new programming 
 
 Note: The timestamp may not always reflect precise data. Where no specific date is provided, it indicates that I don't have reliable information about the exact time of the event.
 
-| Language            | Time       |
-|---------------------|------------|
-| [C++](C++.cpp)      | 6 Apr 2022 |
-| [python](python.py) | 2022       |
-| [C](C.c)            | 2022       |
+| Language                    | Time        |
+|-----------------------------|-------------|
+| [C++](C++.cpp)              | 6 Apr 2022  |
+| [python](python.py)         | 2022        |
+| [C](C.c)                    | 2022        |
+| [JavaScript](JavaScript.js) | 29 Sep 2023 |
