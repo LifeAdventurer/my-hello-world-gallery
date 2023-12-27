@@ -15,3 +15,4 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | [Vue](Vue.vue)              | 23 Oct 2023 |
 | [Java](Java.java)           | 25 Oct 2023 |
 | [C#](C#.cs)                 | 30 Nov 2023 |
+| [Rust](Rust.rs)             | 26 Dec 2023 |
