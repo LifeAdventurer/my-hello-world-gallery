@@ -18,3 +18,4 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | [Rust](Rust.rs)             | 26 Dec 2023 |
 | [Go](Go.go)                 | 30 Dec 2023 |
 | [Kotlin](Kotlin.kt)         | 11 Jan 2024 |
+| [Dart](Dart.dart)           | 20 Mar 2024 |
