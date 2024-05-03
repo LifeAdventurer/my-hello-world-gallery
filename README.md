@@ -21,3 +21,4 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | [Dart](Dart.dart)           | 20 Mar 2024 |
 | [Swift](Swift.swift)        | 20 Mar 2024 |
 | [Lua](Lua.lua)              | 04 May 2024 |
+| [Lisp](Lisp.lisp)           | 04 May 2024 |
