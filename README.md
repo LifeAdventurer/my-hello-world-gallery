@@ -23,3 +23,4 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | [Lua](Lua.lua)              | 04 May 2024 |
 | [Lisp](Lisp.lisp)           | 04 May 2024 |
 | [Lean](Lean.lean)           | 01 Jun 2024 |
+| [Julia](./Julia.jl)         | 08 Jul 2024 |
