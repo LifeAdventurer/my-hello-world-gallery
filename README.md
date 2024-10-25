@@ -24,3 +24,4 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | [Lisp](Lisp.lisp)           | 04 May 2024 |
 | [Lean](Lean.lean)           | 01 Jun 2024 |
 | [Julia](./Julia.jl)         | 08 Jul 2024 |
+| [Verilog](./Verilog.v)      | 25 Oct 2024 |
