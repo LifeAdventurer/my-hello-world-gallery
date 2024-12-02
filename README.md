@@ -25,3 +25,4 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | [Lean](Lean.lean)           | Jun 01, 2024 |
 | [Julia](./Julia.jl)         | Jul 08, 2024 |
 | [Verilog](./Verilog.v)      | Oct 25, 2024 |
+| [Zig](./Zig.zig)            | Dec 02, 2024 |
