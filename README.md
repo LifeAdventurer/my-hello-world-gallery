@@ -1,13 +1,16 @@
 # My Hello, World! Gallery
 
-Welcome to this cozy space where I document each time I learn a new programming language through the creation of a "Hello, World!" program.
+Welcome to this cozy space where I document each time I learn a new programming
+language through the creation of a "Hello, World!" program.
 
 ## Records
 
-Note: The timestamp may not always reflect precise data. Where no specific date is provided, it indicates that I don't have reliable information about the exact time of the event.
+Note: The timestamp may not always reflect precise data. Where no specific date
+is provided, it indicates that I don't have reliable information about the exact
+time of the event.
 
 | Language                      | Time         |
-|-------------------------------|--------------|
+| ----------------------------- | ------------ |
 | [C++](C++.cpp)                | Apr 06, 2022 |
 | [python](python.py)           | 2022         |
 | [C](C.c)                      | 2022         |
@@ -27,3 +30,4 @@ Note: The timestamp may not always reflect precise data. Where no specific date 
 | [Verilog](./Verilog.v)        | Oct 25, 2024 |
 | [TypeScript](./TypeScript.ts) | Nov 15, 2024 |
 | [Zig](./Zig.zig)              | Dec 02, 2024 |
+| [MoonBit](./MoonBit.mbt)      | Mar 12, 2025 |
