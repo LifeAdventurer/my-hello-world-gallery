@@ -32,3 +32,4 @@ time of the event.
 | [Zig](./Zig.zig)              | Dec 02, 2024 |
 | [MoonBit](./MoonBit.mbt)      | Mar 12, 2025 |
 | [Scala](./Scala.scala)        | Mar 20, 2025 |
+| [Elixir.exs](./Elixir.exs)    | Mar 22, 2025 |
