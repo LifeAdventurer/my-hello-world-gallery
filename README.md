@@ -31,3 +31,4 @@ time of the event.
 | [TypeScript](./TypeScript.ts) | Nov 15, 2024 |
 | [Zig](./Zig.zig)              | Dec 02, 2024 |
 | [MoonBit](./MoonBit.mbt)      | Mar 12, 2025 |
+| [Scala](./Scala.scala)        | Mar 20, 2025 |
